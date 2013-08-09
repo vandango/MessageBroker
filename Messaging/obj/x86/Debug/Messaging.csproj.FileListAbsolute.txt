@@ -1,0 +1,14 @@
+C:\data\Code\try\Messaging\Messaging\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\data\Code\try\Messaging\Messaging\bin\Debug\Messaging.exe
+C:\data\Code\try\Messaging\Messaging\bin\Debug\Messaging.pdb
+C:\data\Code\try\Messaging\Messaging\obj\x86\Debug\Messaging.exe
+C:\data\Code\try\Messaging\Messaging\obj\x86\Debug\Messaging.pdb
+C:\data\Dropbox\Code\Messaging\Messaging\obj\x86\Debug\Messaging.exe
+C:\data\Dropbox\Code\Messaging\Messaging\obj\x86\Debug\Messaging.pdb
+C:\data\Dropbox\Code\Messaging\Messaging\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\data\Dropbox\Code\Messaging\Messaging\bin\Debug\Messaging.exe.config
+C:\data\Dropbox\Code\Messaging\Messaging\bin\Debug\Messaging.exe
+C:\data\Dropbox\Code\Messaging\Messaging\bin\Debug\Messaging.pdb
+C:\data\Dropbox\Documents\Paper\windows.developer 09.2013 - MessageBroker für Jedermann\Messaging\Messaging\bin\Debug\Messaging.exe.config
+C:\data\Dropbox\Documents\Paper\windows.developer 09.2013 - MessageBroker für Jedermann\Messaging\Messaging\obj\x86\Debug\Messaging.exe
+C:\data\Dropbox\Documents\Paper\windows.developer 09.2013 - MessageBroker für Jedermann\Messaging\Messaging\obj\x86\Debug\Messaging.pdb
